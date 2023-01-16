@@ -12,9 +12,10 @@ public class GitClassDemo2 {
 	
 	List <Integer> li = new ArrayList<>();
 	
-	li.add(a, 10);
-			
-			
+	li.add(55);
+	li.add(65);
+		
+	System.out.println(li);
 
 }
 }
