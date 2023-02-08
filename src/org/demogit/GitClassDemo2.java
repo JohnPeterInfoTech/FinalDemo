@@ -20,6 +20,15 @@ public class GitClassDemo2 {
 	
 	System.out.println("List of elements : " +li);
 	System.out.println("Elements in the list: " +li);
+	li.add(20);
+	li.add(45);
+	li.add(75);
+	li.add(25);
+	
+	
+	System.out.println("Elements in the List :" +li);
+	
+
 			
 			
 
