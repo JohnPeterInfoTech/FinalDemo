@@ -19,7 +19,7 @@ public class GitClassDemo2 {
 	li.add(30);
 	
 	System.out.println("List of elements : " +li);
-	
+	System.out.println("Elements in the list: " +li);
 			
 			
 
