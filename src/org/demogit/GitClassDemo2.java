@@ -12,6 +12,14 @@ public class GitClassDemo2 {
 	
 	List <Integer> li = new ArrayList<>();
 	
+	li.add(10);
+	li.add(30);
+	li.add(40);
+	li.add(10);
+	li.add(30);
+	
+	System.out.println("List of elements : " +li);
+	System.out.println("Elements in the list: " +li);
 	li.add(20);
 	li.add(45);
 	li.add(75);
@@ -20,6 +28,7 @@ public class GitClassDemo2 {
 	
 	System.out.println("Elements in the List :" +li);
 	
+
 			
 			
 
