@@ -9,6 +9,7 @@ public class GitClassDemo2 {
 	
 	int a= 5,b= 6;
 	System.out.println(a+b);
+	System.out.println(a*b);
 	
 	List <Integer> li = new ArrayList<>();
 	
@@ -28,7 +29,7 @@ public class GitClassDemo2 {
 	
 	System.out.println("Elements in the List :" +li);
 	
-
+  
 			
 			
 
